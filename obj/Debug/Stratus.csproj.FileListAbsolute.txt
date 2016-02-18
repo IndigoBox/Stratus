@@ -1,1 +1,10 @@
 C:\VS Projects\IndigoBox Studios\Project Snowshoes\StratusProject\Stratus\Stratus\bin\Debug\Stratus.exe.config
+C:\IndigoBox Studios\Stratus\bin\Debug\Stratus.exe.config
+C:\IndigoBox Studios\Stratus\bin\Debug\Stratus.exe
+C:\IndigoBox Studios\Stratus\bin\Debug\Stratus.pdb
+C:\IndigoBox Studios\Stratus\obj\Debug\Stratus.csprojResolveAssemblyReference.cache
+C:\IndigoBox Studios\Stratus\obj\Debug\Stratus.Form1.resources
+C:\IndigoBox Studios\Stratus\obj\Debug\Stratus.Properties.Resources.resources
+C:\IndigoBox Studios\Stratus\obj\Debug\Stratus.csproj.GenerateResource.Cache
+C:\IndigoBox Studios\Stratus\obj\Debug\Stratus.exe
+C:\IndigoBox Studios\Stratus\obj\Debug\Stratus.pdb
